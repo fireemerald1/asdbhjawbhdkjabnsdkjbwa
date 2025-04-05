@@ -1,1 +1,22 @@
-{}
+[
+  {
+    "name": "Moonlight Bot V1",
+    "description": "A flowr discord bot ripoff that have its own currency and its own ways how to get the currency in taht bots, and also have market too",
+    "image": "https://github.com/fireemerald1/uh-json-ig-lmao/blob/main/images/project-alpha.png?raw=true"
+  },
+  {
+    "name": "gd botto",
+    "description": "a discord bot that can give you information about a level in gd with a informational picture",
+    "image": "https://github.com/fireemerald1/uh-json-ig-lmao/blob/main/images/project-beta.png?raw=true"
+  },
+  {
+    "name": "Moonlight Bot V2",
+    "description": "A remake of moonlight bot with less feature than the original version of the moonlight bot V1",
+    "image": "https://github.com/fireemerald1/uh-json-ig-lmao/blob/main/images/project-gamma.png?raw=true"
+  },
+  {
+    "name": "Profile Website",
+    "description": "A website about me :>",
+    "image": "https://github.com/fireemerald1/uh-json-ig-lmao/blob/main/images/project-delta.png?raw=true"
+  }
+]
