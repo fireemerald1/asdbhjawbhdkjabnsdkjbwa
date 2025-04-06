@@ -1,26 +1,26 @@
 [
   {
-    "name": "Moonlight Bot V1",
-    "description": "A flowr discord bot ripoff. it have its own currency and its own ways how to get the currency in taht bots, and also have market too",
-    "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215112.png?raw=true",
-    "tag": ["Python", "discord.py"]
+    "name": "Profile Website",
+    "description": "A website about me :>. yeah, dont expect anything more lmao, quite self explainable",
+    "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215400.png?raw=true",
+    "tag": ["HTML", "CSS", "JS"]
   },
   {
     "name": "gd botto",
-    "description": "a simple discord bot that can give you information about a level in gd. with the pillow library it will give information about the level with image",
+    "description": "a simple discord bot that can give you information about a level in gd.",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215335.png?raw=true",
     "tag": ["Python", "discord.py", "pillow", "GDbrowser API"]
   },
   {
     "name": "Moonlight Bot V2 / Flowr Temu",
-    "description": "A remake of moonlight bot. it hase less feature than the original version of the moonlight bot V1 but more useable in the server",
+    "description": "A remake of moonlight bot.",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215238.png?raw=true",
     "tag": ["Python", "discord.py"]
   },
   {
-    "name": "Profile Website",
-    "description": "A website about me :>. yeah, dont expect anything more lmao, quite self explainable",
-    "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215400.png?raw=true",
-    "tag": ["HTML", "CSS", "JS"]
+    "name": "Moonlight Bot V1",
+    "description": "A flowr discord bot ripoff. it have its own currency and its own ways how to get the currency",
+    "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215112.png?raw=true",
+    "tag": ["Python", "discord.py"]
   }
 ]
