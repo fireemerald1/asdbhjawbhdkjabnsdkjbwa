@@ -3,24 +3,28 @@
     "name": "Profile Website",
     "description": "A website about me :>. yeah, dont expect anything more lmao, quite self explainable",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215400.png?raw=true",
-    "tag": ["HTML", "CSS", "JS"]
+    "tag": ["HTML", "CSS", "JS"],
+    "link": "https://github.com/fireemerald1/profile-website"
   },
   {
     "name": "gd botto",
     "description": "a simple discord bot that can give you information about a level in gd.",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215335.png?raw=true",
-    "tag": ["Python", "discord.py", "pillow", "GDbrowser API"]
+    "tag": ["Python", "discord.py", "pillow", "GDbrowser API"],
+    "link": "https://github.com/fireemerald1/gd-botto"
   },
   {
     "name": "Moonlight Bot V2 / Flowr Temu",
     "description": "A remake of moonlight bot.",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215238.png?raw=true",
-    "tag": ["Python", "discord.py"]
+    "tag": ["Python", "discord.py"],
+    "link": "https://github.com/fireemerald1/moonlight-bot-v2"
   },
   {
     "name": "Moonlight Bot V1",
     "description": "A flowr discord bot ripoff. it have its own currency and its own ways how to get the currency",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215112.png?raw=true",
-    "tag": ["Python", "discord.py"]
+    "tag": ["Python", "discord.py"],
+    "link": "https://github.com/fireemerald1/moonlight-bot-v1"
   }
 ]
