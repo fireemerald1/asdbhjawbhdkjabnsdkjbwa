@@ -1,10 +1,17 @@
 [
   {
+    "name": "Not So Serious Quiz",
+    "description": "A website that i made so the user can use any ai, ANYTHING ITS UP TO YOU. so you can study, test your skill, and more",
+    "image": "https://raw.githubusercontent.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/refs/heads/main/Screenshot%202025-08-08%20222235.png",
+    "tag": ["HTML", "CSS", "NextJS", "KaTeX", "JSXGraph"],
+    "link": "https://idkquiz.fireexe.dev"
+  },
+  {
     "name": "Profile Website",
     "description": "A website about me :>. yeah, dont expect anything more lmao, quite self explainable",
     "image": "https://github.com/fireemerald1/asdbhjawbhdkjabnsdkjbwa/blob/main/Screenshot%202025-04-05%20215400.png?raw=true",
     "tag": ["HTML", "CSS", "JS"],
-    "link": "https://github.com/fireemerald1/fire-exe-website.github.io"
+    "link": "https://fireexe.dev"
   },
   {
     "name": "gd botto",
